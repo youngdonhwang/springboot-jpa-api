@@ -9,6 +9,6 @@ spring:
     show-sql: true
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: localhost
+    url: jdbc:mysql://localhost:3303/book
     username: root
-    password: 1q2w3e4r
+    password: hyd8036 #1q2w3e4r
